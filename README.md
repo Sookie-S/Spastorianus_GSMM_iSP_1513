@@ -22,7 +22,7 @@ Last update: 2024-02-06
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Saccharomyces pastorianus CBS1513  | iSP_1513 | 4062 | 2747 | 1808 |
 
-# Contributors:
+# Author:
 
 Soukaina Timouma, Manchester Institute of Biotechnology, University of Manchester, England.
 
