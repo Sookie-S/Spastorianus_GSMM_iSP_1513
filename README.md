@@ -19,7 +19,7 @@ Last update: 2024-02-06
 The model:
 
 | Taxonomy | Template Model | Reactions | Metabolites | Genes |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Saccharomyces pastorianus CBS1513  | iSP_1513 | 4062 | 2747 | 1808 |
 
 Contributors:
